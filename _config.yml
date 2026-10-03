@@ -14,7 +14,7 @@ name: "Morgane Plantier"
 description: "Associate Professor of Economics at the University of Poitiers"
 url: "https://morganeplantier.github.io"
 baseurl: ""
-repository               : "academicpages/academicpages.github.io"
+repository: "morganeplantier/morganeplantier.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
