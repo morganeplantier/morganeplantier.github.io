@@ -102,11 +102,24 @@ Nathalie Havet, Alexis Penot and **Morgane Plantier**
 *Formation Emploi*, 2016, 136, 121–143.
 
 ---
-
+---
 
 ## Working Papers
 
-To be completed.
+**Saved jobs, strained minds? Short-time work and worker health in the Great Recession**  
+with Alexandra Lugova and Ahmed Tritah
+
+---
+
+**Beyond Leave Duration: Measuring the Organization of Parental Leave**  
+with Nathalie Havet and Guy Lacroix
+
+---
+
+**Parental Leave, Household Specialization, and the Child Penalty: Evidence from Different-Sex, Same-Sex, and Adoptive Families**  
+with Nathalie Havet and Guy Lacroix
+
+
 
 ## Work in Progress
 
