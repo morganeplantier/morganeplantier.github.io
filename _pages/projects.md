@@ -42,4 +42,5 @@ author_profile: true
 **PI:** Nathalie Havet<br>
 **Period:** 2018-2021<br> 
 **Funding:** DARES — French Ministry of Labour<br> 
+
 **Project link:** [Research report](https://dares.travail-emploi.gouv.fr/sites/default/files/a21274bc2c47be295a91c630ce263518/Dares_Documents_%C3%A9tudes_DISPARITES_EXPOSITION_PENIBILITE.pdf)<br>
