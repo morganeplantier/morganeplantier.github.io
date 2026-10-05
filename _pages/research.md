@@ -101,11 +101,7 @@ A. Lefranc, D. Pérol, **M. Plantier**, P. Chatelain, H. De Rohan-Chabot and M. 
 Nathalie Havet, Alexis Penot and **Morgane Plantier**  
 *Formation Emploi*, 2016, 136, 121–143.
 
----
 
-**Impact of electronic health records on the hospital bed occupancy rates in surgical units in France: results from the E-SI (PREPS-SIPS) study**  
-**M. Plantier**, N. Havet, T. Durand, N. Caquot, C. Amaz, I. Philip, P. Biron and L. Perrier  
-*Athens Journal of Health*, 2016, 3(1), 11–26.
 
 
 ## Working Papers
