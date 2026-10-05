@@ -5,21 +5,61 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Motherhood, Health and Labour-Market Trajectories
+### IMPULSE — Motherhood, Health and Labour-Market Trajectories
 
-This research agenda investigates how pregnancy, childbirth and motherhood affect women’s health and labour-market trajectories.
+**PI:** Morgane Plantier and Yoann Morin
+**Period:** 01/01/27 - 31/12/27 
+**Funding:** University of Poitiers  
 
-The project combines health and socioeconomic administrative data to study the links between perinatal pathways, mental health, employment and earnings over the life course.
+**Project description:**  
+[To complete]
 
-The broader objective is to better understand the interactions between family events, health inequalities and gender inequalities in the labour market.
+**Project link:**  
+[To complete]
+
+---
 
 
-## TRAJECTOIRE-NA
+## Research Projects
 
-**Trajectoires et Accès des Jeunes à l’Éducation et au Travail : Orientation et Insertion en Région Nouvelle-Aquitaine**
+### TRAJECTOIRE-NA — Trajectoires et Accès des Jeunes à l’Éducation et au Travail : Orientation et Insertion en Région Nouvelle-Aquitaine
 
-**Principal Investigator:** Morgane Plantier  
+**PI:** Morgane Plantier
 **Period:** 2025–2028  
-**Funding:** Région Nouvelle-Aquitaine
+**Funding:** Région Nouvelle-Aquitaine  
 
-This project studies young people’s educational and labour-market trajectories in Nouvelle-Aquitaine, with a particular focus on access to higher education, educational choices and labour-market integration.
+**Project description:**  
+[To complete]
+
+**Project link:**  
+[To complete]
+
+---
+
+
+### Evaluation of the Québec Parental Insurance Plan (RQAP)
+
+**PI** Guy Lacroix 
+**Period:** [To complete]  
+**Funding:** Conseil de gestion de l’assurance parentale (CGAP), Québec  
+
+**Project description:**  
+[To complete]
+
+**Project link:**  
+[To complete]
+
+---
+
+### Disparités d’exposition aux facteurs de pénibilité en milieu professionnel et inégalités sociales de santé
+
+**PI:** Nathalie Havet 
+**Period:** [To complete]  
+**Funding:** DARES — French Ministry of Labour  
+**Funding amount:** [To complete]  
+
+**Project description:**  
+[To complete]
+
+**Project link:**  
+[Research report](https://dares.travail-emploi.gouv.fr/sites/default/files/a21274bc2c47be295a91c630ce263518/Dares_Documents_%C3%A9tudes_DISPARITES_EXPOSITION_PENIBILITE.pdf)
