@@ -5,10 +5,15 @@ permalink: /projects/
 author_profile: true
 ---
 
+## Research Projects
+
+
 ### IMPULSE — Motherhood, Health and Labour-Market Trajectories
 
 **PI:** Morgane Plantier and Yoann Morin
+
 **Period:** 01/01/27 - 31/12/27 
+
 **Funding:** University of Poitiers  
 
 **Project description:**  
@@ -18,9 +23,6 @@ author_profile: true
 [To complete]
 
 ---
-
-
-## Research Projects
 
 ### TRAJECTOIRE-NA — Trajectoires et Accès des Jeunes à l’Éducation et au Travail : Orientation et Insertion en Région Nouvelle-Aquitaine
 
