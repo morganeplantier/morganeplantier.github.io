@@ -29,7 +29,7 @@ author_profile: true
 
 ### Evaluation of the Québec Parental Insurance Plan (RQAP)
 
-**PI** Guy Lacroix.  
+**PI:** Guy Lacroix.  
 **Period:** 2021-2026.   
 **Funding:** Conseil de gestion de l’assurance parentale (CGAP), Québec.   
 **Project link:** [View project](https://www.eepp.ulaval.ca/)
