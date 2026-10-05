@@ -12,8 +12,8 @@ author_profile: true
 
 **PI:** Morgane Plantier and Yoann Morin. 
 **Period:** 01/01/27 - 31/12/27. 
-**Funding:** University of Poitiers.   
-**Project link:** [View project]((https://lep.labo.univ-poitiers.fr/accueil/projets-de-recherche/projet-impulse/))
+**Funding:** University of Poitiers.    
+**Project link:** [View project]((https://lep.labo.univ-poitiers.fr/accueil/projets-de-recherche/projet-impulse/)). 
 
 ---
 
