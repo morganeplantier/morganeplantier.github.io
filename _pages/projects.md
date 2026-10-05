@@ -39,8 +39,7 @@ author_profile: true
 
 ### Disparités d’exposition aux facteurs de pénibilité en milieu professionnel et inégalités sociales de santé
 
-**PI:** Nathalie Havet. 
-**Period:** 2018-2021. 
+**PI:** Nathalie Havet.  
+**Period:** 2018-2021.  
 **Funding:** DARES — French Ministry of Labour. 
-**Project link:**  
-[Research report](https://dares.travail-emploi.gouv.fr/sites/default/files/a21274bc2c47be295a91c630ce263518/Dares_Documents_%C3%A9tudes_DISPARITES_EXPOSITION_PENIBILITE.pdf)
+**Project link:** [Research report](https://dares.travail-emploi.gouv.fr/sites/default/files/a21274bc2c47be295a91c630ce263518/Dares_Documents_%C3%A9tudes_DISPARITES_EXPOSITION_PENIBILITE.pdf). 
