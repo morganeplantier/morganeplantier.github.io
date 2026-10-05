@@ -101,7 +101,7 @@ A. Lefranc, D. Pérol, **M. Plantier**, P. Chatelain, H. De Rohan-Chabot and M. 
 Nathalie Havet, Alexis Penot and **Morgane Plantier**  
 *Formation Emploi*, 2016, 136, 121–143.
 
-
+---
 
 
 ## Working Papers
