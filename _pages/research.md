@@ -119,8 +119,12 @@ with Nathalie Havet and Guy Lacroix
 **Parental Leave, Household Specialization, and the Child Penalty: Evidence from Different-Sex, Same-Sex, and Adoptive Families**  
 with Nathalie Havet and Guy Lacroix
 
-
+---
+---
 
 ## Work in Progress
 
-To be completed.
+**Social and Spatial Inequalities in Young People’s Educational Choices**  
+with Bastien Bernela, Izaora Glain and Yoann Morin
+
+
