@@ -16,11 +16,7 @@ author_profile: true
 
 **Funding:** University of Poitiers  
 
-**Project description:**  
-[To complete]
-
-**Project link:**  
-[To complete]
+**Project link:** [View project]([https://example.com](https://lep.labo.univ-poitiers.fr/accueil/projets-de-recherche/projet-impulse/))
 
 ---
 
