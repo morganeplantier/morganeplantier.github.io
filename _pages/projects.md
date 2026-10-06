@@ -72,7 +72,7 @@ Nathalie Havet, Morgane Plantier and Guy Lacroix<br>
 
 ### Disparités d’exposition aux facteurs de pénibilité en milieu professionnel et inégalités sociales de santé
 
-Nathalie Havet, Morgane Plantier and Amandine Penot<br>
+Nathalie Havet, Morgane Plantier and Alexis Penot<br>
 **Commissioned by:** DARES, French Ministry of Labour<br>
 **Year:** 2022<br>
 **Length:** 201 pages<br>
@@ -91,7 +91,7 @@ Nathalie Havet, Morgane Plantier and Guy Lacroix<br>
 
 ### Inégalités de l’exposition aux produits chimiques cancérogènes, mutagènes ou reprotoxiques (CMR) en milieu professionnel : les enseignements de l’enquête SUMER
 
-Nathalie Havet, Amandine Penot, M. Morelle, B. Fervers, B. Charbotel, L. Perrier and Morgane Plantier<br>
+N. Havet, A. Penot, M. Morelle, B. Fervers, B. Charbotel, L. Perrier and M. Plantier<br>
 **Commissioned by:** DARES, French Ministry of Labour<br>
 **Year:** 2014<br>
 **Length:** 148 pages
@@ -100,7 +100,7 @@ Nathalie Havet, Amandine Penot, M. Morelle, B. Fervers, B. Charbotel, L. Perrier
 
 ### Que deviennent les bénéficiaires des clauses d’insertion des marchés publics ?
 
-D. Bekele, D. Kitomba, T.-N. Nguyen Le, Morgane Plantier and G. Rieu<br>
+D. Bekele, D. Kitomba, T.-N. Nguyen Le, M. Plantier and G. Rieu<br>
 **Commissioned by:** Grand Lyon – Sud Ouest Emploi and Métropole de Lyon<br>
 **Year:** 2013<br>
 **Length:** 46 pages
