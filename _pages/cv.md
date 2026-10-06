@@ -3,62 +3,40 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+[Download full CV](/files/CV_M_Plantier.pdf)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Current Position
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Associate Professor of Economics**  
+University of Poitiers, Laboratoire d’économie de Poitiers (LéP)  
+2022–present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**PhD in Economics**, 2021  
+Université Claude Bernard Lyon 1
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Thesis: *Analyse économique des comportements en matière de protection sociale*  
+Supervisors: Nathalie Havet and Jean-Louis Rullière
+
+**Master’s Degree in Economics**, 2015  
+Université Lumière Lyon 2
+
+## Previous Positions
+
+**Postdoctoral Researcher**, 2021–2022  
+Fondation du Risque / Institut Louis Bachelier  
+Université Claude Bernard Lyon 1
+
+**Teaching and Research Assistant (ATER)**, 2020–2021  
+Université Claude Bernard Lyon 1
+
+## Academic Responsibilities
+
+**Co-director, Master Economie Appliquée**  
+University of Poitiers
+
+**Co-director, Diplôme d'Université Economie de la santé**  
+University of Poitiers
